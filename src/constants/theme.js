@@ -1,0 +1,15 @@
+export const THEME = {
+  primary: '#0D6EFD',
+  primaryDark: '#0047BA',
+  primaryLight: '#EBF3FF',
+  bgCanvas: '#F4F7FC',
+  cardBg: '#FFFFFF',
+  textMain: '#0F172A',
+  textMuted: '#64748B',
+  textSubtle: '#94A3B8',
+  border: '#E2E8F0',
+  borderSubtle: '#EDF2F7',
+  error: '#EF4444',
+  success: '#10B981',
+  starGold: '#F59E0B',
+};

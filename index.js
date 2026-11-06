@@ -1,3 +1,4 @@
+import './polyfills'; // Must be first - sets up Buffer polyfill
 import { registerRootComponent } from 'expo';
 
 import App from './App';
